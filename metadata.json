@@ -1,0 +1,7 @@
+{
+  "name": "MealWise AI - Production Meal Planner",
+  "description": "A sophisticated Indian meal planning assistant with structured personalization, ingredient locking, and smart scheduling logic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
